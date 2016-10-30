@@ -118,8 +118,14 @@ figure img {
   margin-right: auto;
 }
 
+.coupon-title {
+  margin-top: .5rem;
+  margin-bottom: 1rem;
+}
+
 .coupon-header {
-  margin-bottom: 3rem;
+  margin-bottom: 1.75rem;
+  margin-top: 1rem;
   text-align: center;
   width: auto;
   font-style:oblique;
