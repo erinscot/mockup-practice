@@ -103,6 +103,12 @@ figure img {
 .photo-caption {
   padding-bottom: 2rem;
 }
+
+.More {
+  font-size: 1.1rem;
+  padding-top: 1.5rem;
+}
+
 .bottom {
   clear: both;
   background-color: black;
