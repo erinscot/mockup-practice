@@ -1,0 +1,125 @@
+html {
+  font-size: 16px; 
+  font-family: sans-serif;
+  font-weight:400;
+}
+
+header {
+  background-color: black;
+  padding: 1rem 1rem .25rem 1rem;
+}
+
+.header-text {
+  color: white;
+  padding-top: 3rem;   
+}
+
+h1 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header-subtext {
+  color: lightgray;
+}
+
+.calltoaction {
+  color: crimson;
+  float:right;
+}
+
+.navbar {
+  background-color: lightgray;
+  margin-top: 0rem;
+}
+
+.navbar-text {
+  font-size: 1.25rem;
+  list-style-type: none;
+  padding: 1rem 1rem 1rem 1.75rem;
+  margin-top: 0rem;
+}
+
+li a {
+  color: purple;
+  padding: 14px 16px;
+}
+
+li a:hover {
+  background-color: black
+}
+
+.legal-words {
+  float: left;
+  display: inline-block;
+  width: 65%;
+  height: 44rem;
+  font-size: 1.5rem;
+  margin-left: .75rem;
+}
+
+h2 {
+  font-size: 2rem;
+  padding-bottom: 0rem;
+  margin-bottom: .5rem;
+}
+
+h4 {
+  margin: auto;
+  padding-top: .5rem;
+  padding-bottom: 2rem;
+}
+
+.sidebar-release {
+  display: inline-block;
+  float: right;
+  margin-bottom: 5rem;
+  margin-right: 1rem;
+  border: 0.25rem solid lightgray;
+  padding: 0rem 1rem 1rem 1rem;
+  width: 28%;
+  height: 46rem;
+  text-align: center;
+}
+
+article h3 {
+  clear: both;
+  text-align: center;
+  font-size: 1.75rem;
+}
+
+figure {
+  margin: auto;
+  margin-top: 1rem;
+  padding-top: 0rem;
+}
+
+figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo-caption {
+  padding-bottom: 2rem;
+}
+.bottom {
+  clear: both;
+  background-color: black;
+  color: white;
+  padding: 1rem 0 .25rem 1rem;
+}
+
+.contact-info {
+  font-size: 1.1rem;
+  margin: .25rem;
+}
+
+.email {
+  color: crimson;
+}
+
+footer {
+  text-align: center;
+  padding-top: 2rem;
+}
