@@ -72,7 +72,7 @@ h2 {
   margin-bottom: 5rem;
   margin-right: 1rem;
   border: 0.25rem solid lightgray;
-  padding: 0rem 1rem 1rem 1rem;
+  padding: 0rem rem 1rem 1rem;
   width: 28%;
   height: 44rem;
   text-align: center;
@@ -84,16 +84,24 @@ article h3 {
   font-size: 1.75rem;
 }
 
+.photo-caption {
+  margin-bottom: 0rem;
+  margin-left: 1rem;
+  width: 90%;
+  text-align: left;
+  padding-bottom: 0rem;
+}
+
 figure img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.photo-caption {
-  margin-bottom: 2rem;
-  padding-top: 0rem;
-  text-align: right;
+.booknow {
+  float: right;
+  padding-right: .5rem;
+  padding-bottom: 1rem;
 }
 
 .bottom {
